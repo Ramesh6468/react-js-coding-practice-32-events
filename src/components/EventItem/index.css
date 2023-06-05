@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.image1 {
+  height: 200px;
+  border: 10px solid #2dd4bf;
+  border-radius: 20px;
+  outline: none;
+  background-color: #323f4b;
+}
+.image2 {
+  height: 200px;
+  border-radius: 20px;
+  outline: none;
+}
+.name {
+  color: #ffffff;
+  font-weight: bold;
+}
+.location {
+  color: #ffffff;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

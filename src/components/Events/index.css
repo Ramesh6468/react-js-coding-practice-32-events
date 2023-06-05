@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bgContainer {
+  display: flex;
+  height: 100vh;
+}
+.eventsContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #475569;
+  width: 60%;
+}
+.heading {
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+.itemList {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.image4 {
+    height: 200px;
+}
